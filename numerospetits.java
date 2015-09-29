@@ -5,7 +5,7 @@ public class NumerosPetitsSUBV {
     
     public static void main(String[] args) {
       Scanner lector = new Scanner(System.in);
-      int [] num = new int[5];
+      int [] num = new int[10];
       
       for (int i=0; i<num.length;i++){
           System.out.println("Entra un numero");
