@@ -1,4 +1,5 @@
 package numerospetitssubv;
+// Importem Arrays
 import java.util.Arrays;
 //Importem l'Scanner
 import java.util.Scanner;
