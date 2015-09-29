@@ -1,4 +1,5 @@
 package numerospetitssubv;
+//Importem els arrays
 import java.util.Arrays;
 import java.util.Scanner;
 public class NumerosPetitsSUBV {
